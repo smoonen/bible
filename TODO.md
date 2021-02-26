@@ -5,5 +5,5 @@
 - "and"
 - remembrance/memorial
 - temple
-- Generate HTML
+- Generate HTML, including typography
 

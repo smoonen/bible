@@ -1,6 +1,7 @@
 # Suggestions
 
 - Yahweh
+- archaisms
 - sacrifices and offerings
 - "and"
 - remembrance/memorial

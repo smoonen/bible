@@ -9,4 +9,5 @@
 - literal / alternate footnotes
 - quotations (e.g., Gen 1)
 - Generate HTML, including typography
+- cross references
 

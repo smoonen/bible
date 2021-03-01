@@ -5,7 +5,7 @@
 - sacrifices and offerings
 - "and"
 - remembrance/memorial
-- temple
+- temple, priest
 - second person plural
 - literal / alternate footnotes
 - Luke 9 / exodus

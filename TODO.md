@@ -6,6 +6,7 @@
 - "and"
 - remembrance/memorial
 - temple, priest
+- atonement
 - second person plural
 - literal / alternate footnotes
 - Luke 9 / exodus

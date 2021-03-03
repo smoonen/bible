@@ -4,3 +4,6 @@ Originally [KJV](https://www.crosswire.org/~dmsmith/kjv2006/), in OSIS format, w
 
 With debt and appreciation to James Jordan, Peter Leithart, and Duane Garner.
 
+## Summary of changes
+
+- Use Yah and Yahweh where possible

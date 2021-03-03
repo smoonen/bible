@@ -4,7 +4,7 @@
 - sacrifices and offerings
 - "and"
 - remembrance/memorial
-- temple, priest
+- priest
 - atonement
 - second person plural
 - literal / alternate footnotes

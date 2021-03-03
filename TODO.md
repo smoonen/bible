@@ -8,7 +8,6 @@
 - atonement
 - second person plural
 - literal / alternate footnotes
-- Luke 9 / exodus
 - goel, tam
 - Compare Fox, NKJV, New Geneva, NET, etc.
 - Psalms (Jordan, Alter)

@@ -6,4 +6,6 @@ With debt and appreciation to James Jordan, Peter Leithart, and Duane Garner.
 
 ## Summary of changes
 
-- Use Yah and Yahweh where possible
+- Use Yah and Yahweh throughout the OT
+- Use "exodus" in the NT for G1841
+

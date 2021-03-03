@@ -11,7 +11,7 @@
 - goel, tam
 - Compare Fox, NKJV, New Geneva, NET, etc.
 - Psalms (Jordan, Alter)
-- paragraphs, poetry and line breaks, quotations (e.g., Gen 1)
+- paragraphs, poetry and line breaks, quotations
 - Generate HTML, including typography
 - cross references
 

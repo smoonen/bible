@@ -6,6 +6,7 @@ With debt and appreciation to James Jordan, Peter Leithart, and Duane Garner.
 
 ## Summary of changes
 
-- Use Yah and Yahweh throughout the OT
-- Use "exodus" in the NT for G1841
+- Yah and Yahweh throughout the OT for H3050, H3068, H3069, and related
+- exodus for G1841
+- ascension for H5930 / olah
 

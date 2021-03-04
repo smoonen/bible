@@ -10,3 +10,5 @@ modules/texts/rawtext/scm/nt : bible.xml
 html/index.html : bible.xml
 	. ../osis2html/bin/activate && ../osis2html/osis2html.py bible.xml html
 
+-include Makefile.local
+

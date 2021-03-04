@@ -2,3 +2,4 @@ modules/
 html/
 *~
 .*.swp
+Makefile.local

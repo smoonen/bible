@@ -1,13 +1,14 @@
 # Suggestions
 
 - archaisms
-- sacrifices and offerings
+- sacrifices and offerings, including NT
 - "and"
 - remembrance/memorial
 - earth / cultivated earth
 - land / world
 - priest
 - atonement
+- Lord's prayer
 - second person plural
 - literal / alternate footnotes
 - goel, tam

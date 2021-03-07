@@ -4,6 +4,8 @@
 - sacrifices and offerings
 - "and"
 - remembrance/memorial
+- earth / cultivated earth
+- land / world
 - priest
 - atonement
 - second person plural

@@ -10,3 +10,6 @@ With debt and appreciation to James Jordan, Peter Leithart, and Duane Garner.
 - exodus for G1841
 - ascension for H5930 / olah
 - palace exclusively for H1964 and H1965; and house, where applicable, for H1004
+- swarm for H8317, H8318
+- Archaic words and usage
+

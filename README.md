@@ -4,10 +4,9 @@ Originally [KJV](https://www.crosswire.org/~dmsmith/kjv2006/), in OSIS format, w
 
 With debt and appreciation to James Jordan, Peter Leithart, and Duane Garner.
 
-## Summary of changes
+## Significant changes
 
 - Yah and Yahweh throughout the OT for H3050, H3068, H3069, and related
 - exodus for G1841
 - ascension for H5930 / olah
 - palace exclusively for H1964 and H1965; and house, where applicable, for H1004
-

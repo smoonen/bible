@@ -1,6 +1,7 @@
 # Suggestions
 
 - transform apostrophes
+- vanity
 - archaisms
 - sacrifices and offerings, including NT
 - "and"

@@ -1,5 +1,6 @@
 # Suggestions
 
+- transform apostrophes
 - archaisms
 - sacrifices and offerings, including NT
 - "and"

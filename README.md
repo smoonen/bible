@@ -11,6 +11,7 @@ Debt and appreciation to: James Jordan, Peter Leithart, and Duane Garner.
 - Yah and Yahweh throughout the OT for H3050, H3068, H3069, and related
 - exodus for G1841
 - ascension for H5930 / olah
+- tribute for H4503 / minchah
 - palace exclusively for H1964 and H1965; and house, where applicable, for H1004
 - swarm for H8317, H8318
 - Archaic words and usage
